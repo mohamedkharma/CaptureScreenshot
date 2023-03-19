@@ -6,7 +6,7 @@ Need a high quality screenshot to share an interesting site? This app uses the A
 
 Here's a walkthrough shows the app:
 
-<img src="https://courses.codepath.org/course_images/web102/lab4/checkpoint4.gif" title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src="app_demo.gif" title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
